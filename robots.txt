@@ -1,0 +1,4 @@
+# These are previews of aikigai.ai. They must not be indexed, or they will
+# compete with the real site in search results.
+User-agent: *
+Disallow: /
