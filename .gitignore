@@ -3,3 +3,8 @@ Thumbs.db
 desktop.ini
 .DS_Store
 *.swp
+
+# stray screenshots from verification runs
+final_*.png
+ps_*.png
+repo_front.png
