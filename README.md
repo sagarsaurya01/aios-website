@@ -8,13 +8,13 @@ Open **index.html** (or the GitHub Pages link) for a front page linking everythi
 
     sites/
       00-original-live/     aikigai.ai as it stands today, for comparison
-      14-original-colours/  new homepage, the palette the site already uses
-      15-blush-panel/       new homepage, flat Chalk Blush hero panel
-      16-teal/              new homepage, Signal Teal hero
+      version-1-original-colours/   new homepage, the palette the site already uses
+      version-2-blush-panel/        new homepage, flat Chalk Blush hero panel
+      version-3-teal/               new homepage, Signal Teal hero
 
     prototypes/             every version built along the way, one file each
 
-Each site folder is a complete site — all eleven pages. Between 14, 15 and 16 only
+Each site folder is a complete site — all eleven pages. Between the three versions only
 `index.html` and `theme.css` differ; everything else is byte-identical to the
 current deploy.
 
