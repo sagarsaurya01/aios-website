@@ -2,7 +2,7 @@
 
 The current aikigai.ai site, and three versions of a new homepage.
 
-Open **index.html** (or the GitHub Pages link) for a front page linking all four.
+Open **index.html** (or the GitHub Pages link) for a front page linking everything.
 
 ## Layout
 
@@ -12,7 +12,9 @@ Open **index.html** (or the GitHub Pages link) for a front page linking all four
       15-blush-panel/       new homepage, flat Chalk Blush hero panel
       16-teal/              new homepage, Signal Teal hero
 
-Each folder is a complete site — all eleven pages. Between 14, 15 and 16 only
+    prototypes/             every version built along the way, one file each
+
+Each site folder is a complete site — all eleven pages. Between 14, 15 and 16 only
 `index.html` and `theme.css` differ; everything else is byte-identical to the
 current deploy.
 
@@ -37,3 +39,13 @@ and are untouched by the swap.
 - The founders' film has not been shot. The hero holds a placeholder showing the
   two studio portraits behind a play button. Do not put that live as-is.
 - The build carries 47 client logos; the page shows 8.
+
+## prototypes/
+
+Single-file previews of every version, homepage only. Smaller images and no
+video — they load fast but they are not the real thing, so do not upload them.
+
+01 to 05 pre-date a fix to the closing call to action, which was rendering
+cream on cream and could not be read; the last screen looks blank on those
+five. 03 (Unpinned) is the treatment that was chosen from that round, and
+every version since is built on it.
